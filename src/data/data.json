@@ -1,0 +1,232 @@
+
+
+{
+	"experience": {
+		"frontend": [
+			{
+				"title": "HTML",
+				"level": "Intermediate"
+			},
+			{
+				"title": "CSS, SASS, SCSS",
+				"level": "Intermediate"
+			},
+			{
+				"title": "Javascript",
+				"level": "Intermediate"
+			},
+			{
+				"title": "React, React-Redux",
+				"level": "Intermediate"
+			},
+			{
+				"title": "jQuery",
+				"level": "Basic"
+			}
+		],
+		"backend": [
+			{
+				"title": "C#",
+				"level": "Intermediate"
+			},
+			{
+				"title": "PHP",
+				"level": "Intermediate"
+			},
+			{
+				"title": "MySQL",
+				"level": "Intermediate"
+			}
+		]
+	},
+	"services": {
+		"frontend": [
+			{
+				"text": "ecommerce"
+			},
+			{
+				"text": "promotions"
+			}
+		],
+		"webdev": [
+			{
+				"text": "SPA"
+			},
+			{
+				"text": "oop development"
+			},
+			{
+				"text": "version control"
+			}
+		],
+		"personal": [
+			{
+				"text": "teamwork"
+			},
+			{
+				"text": "jira"
+			},
+			{
+				"text": "friendly"
+			},
+			{
+				"text": "languages"
+			}
+		]
+	},
+	"portfolio": [
+		{
+			"image": "https://res.cloudinary.com/dldr6u8lx/image/upload/v1656337949/pf1_i0xfmt.png",
+			"title": "SpeechCare",
+			"github": "https://github.com",
+			"demo": "https://plus.speechcare.de"
+		},
+		{
+			"image": "https://res.cloudinary.com/dldr6u8lx/image/upload/v1656337949/pf2_jsnpwy.png",
+			"title": "Samsung Tarife",
+			"github": "https://github.com",
+			"demo": "https://samsung.com/de/tarife"
+		},
+		{
+			"image": "https://res.cloudinary.com/dldr6u8lx/image/upload/v1656337949/pf3_wmdjzy.png",
+			"title": "Samsung Promotions",
+			"github": "https://github.com",
+			"demo": "https://samsung.com/de/offer"
+		}
+	],
+	"header": [
+		{
+			"frontend": [
+				{
+					"title": "HTML",
+					"level": "Intermediate"
+				},
+				{
+					"title": "CSS, SASS, SCSS",
+					"level": "Intermediate"
+				},
+				{
+					"title": "Javascript",
+					"level": "Intermediate"
+				},
+				{
+					"title": "React, React-Redux",
+					"level": "Intermediate"
+				},
+				{
+					"title": "jQuery",
+					"level": "Basic"
+				}
+			],
+		"experience": {
+				"frontend": [
+					{
+						"title": "HTML",
+						"level": "Intermediate"
+					},
+					{
+						"title": "CSS, SASS, SCSS",
+						"level": "Intermediate"
+					},
+					{
+						"title": "Javascript",
+						"level": "Intermediate"
+					},
+					{
+						"title": "React, React-Redux",
+						"level": "Intermediate"
+					},
+					{
+						"title": "jQuery",
+						"level": "Basic"
+					}
+				],
+				"backend": [
+					{
+						"title": "C#",
+						"level": "Intermediate"
+					},
+					{
+						"title": "PHP",
+						"level": "Intermediate"
+					},
+					{
+						"title": "MySQL",
+						"level": "Intermediate"
+					}
+				]
+			},
+			"hello": "Hello I`m",
+			"name": "Dong-Ho",
+			"job": "Frontend Developer",
+			"scroll": "Scroll Down",
+			"download": "Download CV",
+			"talk": "Let`s Talk",
+			"getToKnow": "Get to know",
+			"aboutMe" : "About Me",
+			"exp": "Experience",
+			"descExp": "2+ Years Working",
+			"clients": "Clients",
+			"descClients": "2+ Worldwide",
+			"projects": "Projects",
+			"descProjects": "50+ Completed",
+			"aboutText": "Born in South-Korea grown up in Germany Berlin since 1999. Studied in Beuth Hochschule major Medien-Informatik and a professional education in Fachinformatiker - Anwendungsentwicklung (Applicationdeveloping). Working with a alot of responsibility, good teamwork and open for new technology. The inspiration and love for developing holds my motivation always up! Feel free to have a look on my profile, if you have any questions don't hesitate to contact me",
+			"myExperience" : "My Experience",
+			"whatSkills" : "What Skills I Have",
+			"whatIOffer" : "What I Offer",
+			"services" : "Services",
+			"myRecent" : "My Recent Work",
+			"portfolio" : "Portfolio"
+		}
+	],
+	"kHeader": [
+		{
+			"hello": "안녕하세요 저는",
+			"name": "동호 미탁",
+			"job": "프론트엔드 개발자",
+			"scroll": "밑으로 가기",
+			"download": "이력서 다운로드",
+			"talk": "연락하기!",
+			"getToKnow": "알고가는",
+			"aboutMe": "저의 소개",
+			"exp": "경력",
+			"descExp": "2+ 년의 작업",
+			"clients": "클라이언트",
+			"descClients": "2+ 전세계",
+			"projects": "프로젝트",
+			"descProjects": "50+ 완료",
+			"aboutText": "한국에서 태어나 1999년부터 독일 베를린에서 성장했습니다. Beuth Hochschule 에서 Medien-Informatik을 전공하고 Fachinformatiker - Anwendungsentwicklung(응용 개발)에서 전문 교육을 받았습니다. 많은 책임, 좋은 팀워크 및 새로운 기술에 대한 열린 마음으로 일합니다. 개발에 대한 영감과 사랑은 항상 제 동기를 유지합니다! 제 프로필을 봐주시고 궁금한 사항이 있으시면 주저하지 마시고 저에게 연락주세요",
+			"myExperience" : "경력",
+			"whatSkills" : "스킬 트리",
+			"whatIOffer" : "제가 제공하는",
+			"services" : "서비스",
+			"myRecent" : "지난 프로젝트들",
+			"portfolio" : "포트폴리오"
+		}
+	],
+	"gHeader": [
+		{
+			"hello": "Hallo ich bin",
+			"name": "Dong-Ho",
+			"job": "Frontend Entwickler",
+			"scroll": "nach unten",
+			"download": "Lebenslauf",
+			"talk": "Schreib mir!",
+			"getToKnow": "kennenlernen",
+			"aboutMe": "Über mich",
+			"exp": "Erfahrungen",
+			"descExp": "2+ Jahre Arbeit",
+			"clients": "Kunden",
+			"descClients": "2+ Weltweit",
+			"projects": "Projekte",
+			"descProjects": "50+ Abgeschlossen",
+			"aboutText": "Geboren in Südkorea, aufgewachsen in Deutschland, Berlin seit 1999. Studium an der Beuth Hochschule im Studiengang Medien-Informatik und Fachinformatiker - Anwendungsentwicklung. Arbeiten mit viel Verantwortung, guter Teamarbeit und offen für neue Technologien. Die Inspiration und Liebe zum Entwickeln hält meine Motivation immer hoch! Schauen Sie sich gerne in meinem Profil um, wenn Sie Fragen haben, zögern Sie nicht, mich zu kontaktieren",
+			"myExperience" : "Meine Erfahrungen",
+			"whatSkills" : "Was für Fähigkeiten ich habe",
+			"whatIOffer" : "Was ich biete",
+			"services" : "Services",
+			"myRecent" : "Vergangene Arbeiten",
+			"portfolio" : "Portfolio"
+		}
+	]
+}
